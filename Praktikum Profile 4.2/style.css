@@ -1,0 +1,43 @@
+.body{
+    background-color: blue;
+}
+
+.Kotak{
+    display: inline; 
+    float : left;
+    margin-left :50px; 
+    margin-top:20px;
+}
+
+.Profilename{
+    display: inline; 
+    float: left; 
+    margin-left:50px; 
+    margin-top: 20px;
+}
+
+.kategori{
+    display: inline;
+    float:right;
+    margin-right:50px;
+    font-size: 17px;
+    text-align:right;
+}
+
+.article{
+    float: left;
+    margin-left:50px;
+}
+
+.isi{
+    font-size: 17px;
+}
+
+.multimedia{
+    float: left; 
+    margin-left:50px;
+}
+
+.multimediakanan{
+    margin-right: 3%;
+}
